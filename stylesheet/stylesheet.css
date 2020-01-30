@@ -1,0 +1,36 @@
+body {
+  background-color: honeydew;
+}
+
+nav {
+  width: 90%;
+  margin: 100px auto;
+  border: 1px solid blue;
+  background-image: linear-gradient(red, yellow);
+}
+
+ul {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+nav > ul > li {
+  margin: 0 auto;
+  padding: 0;
+  display: inline-block;
+  height: 36px;
+  border: 1px solid blue;
+  width: 12%;
+}
+
+nav > ul > li > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
