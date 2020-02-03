@@ -205,7 +205,7 @@ footer {
 
 .search::before {
   position: relative;
-  top: 5px;
+  top: 3px;
   left: 25px;
   font-family: "Material Icons", sans-serif;
   color: white;
