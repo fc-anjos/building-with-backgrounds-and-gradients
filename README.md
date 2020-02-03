@@ -7,8 +7,7 @@
     css 
 
 ### Check it online!
-[Live preview](https://fc-anjos.github.io/building-with-backgrounds-and-gradients/)
-
+[Live preview](https://raw.githack.com/fc-anjos/building-with-backgrounds-and-gradients/development/index.html)
 ### Author:
 ##### Felipe dos Anjos
 GitHub: [@fc-anjos](https://github.com/fc-anjos)  
